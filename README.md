@@ -24,8 +24,7 @@ model += 370 * b + 150 * o + 260 * y + 94 * t + 470 * s >= 32900 #Potassium (mg)
 #solve
 model.solve()
 
-for v in model.variables(![big sur burrito](https://github.com/mtrimble27/MSDS460_Assignment_1/assets/72757621/b91ad45a-48e8-4486-8863-e2dc8a19757f)
-):
+for v in model.variables:
     print(v.name, "=", v.varValue, "servings")
     
 print("Price =", "$",value(model.objective))
