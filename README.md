@@ -34,7 +34,6 @@ Nutrition Labels
 
 ![big sur burrito](https://github.com/mtrimble27/MSDS460_Assignment_1/assets/72757621/a3c184e5-6a61-4f5a-9f7c-ac452497126e)
 ![oats](https://github.com/mtrimble27/MSDS460_Assignment_1/assets/72757621/2776f2e7-0f82-46ae-80e8-b8a545930262)
-![yogurt](https://github.com/mtrimble27/MSDS460_Assignment_1/assets/72757621/a8ccf292-de26-4a4c-af95-b
-7e902b2c6f5)
+![yogurt](https://github.com/mtrimble27/MSDS460_Assignment_1/assets/72757621/3d8fcf5b-b2d8-4443-8250-aff7f8657518)
 ![tofu](https://github.com/mtrimble27/MSDS460_Assignment_1/assets/72757621/1626daac-4533-4f73-8dfd-ef92b9f412bd)
 ![Carnation Breakfast Shake](https://github.com/mtrimble27/MSDS460_Assignment_1/assets/72757621/e1b4ff3d-f34d-4f2e-804d-f4141e5f8c84)
